@@ -1,12 +1,6 @@
 ##Website Desa Suatang Baru - Kabupaten Paser
 
-Mulanya sih sedikit bangga, ya walaupun saat ini sudah banyak yang menggunakan domain .desa.id, tapi dari pihak PANDI sendiri pada waktu itu berkata bahwa kamilah 
-
-orang pertama yang mendaftarkan domain .desa.id se Kalimantan Timur. Ya, walaupun pada akhirnya mungkin sedikit terabaikan. Mungkin karena kurangnya fasilitas yang ada 
-
-pada desa tersebut kali ya. Dikesempatan kali ini ane bagikan source code lengkapnya. Backend yang ane gunakan adalah Junkspot CMS buatan ane sendiri, ya ketika itu 
-
-mungkin masih miskin fungsi. Tapi semoga aja bisa bermanfaat untuk kalian yang lagi belajar pembuatan website atau untuk keperluan tugas kuliah. 
+Mulanya sih sedikit bangga, ya walaupun saat ini sudah banyak yang menggunakan domain .desa.id, tapi dari pihak PANDI sendiri pada waktu itu berkata bahwa kamilah orang pertama yang mendaftarkan domain .desa.id se Kalimantan Timur. Ya, walaupun pada akhirnya mungkin sedikit terabaikan. Mungkin karena kurangnya fasilitas yang ada pada desa tersebut kali ya. Dikesempatan kali ini ane bagikan source code lengkapnya. Backend yang ane gunakan adalah Junkspot CMS buatan ane sendiri, ya ketika itu mungkin masih miskin fungsi. Tapi semoga aja bisa bermanfaat untuk kalian yang lagi belajar pembuatan website atau untuk keperluan tugas kuliah. 
 
 ###Fitur
  - I'm using Twitter Bootstrap and some image from Web.com Organization
