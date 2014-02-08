@@ -9,22 +9,22 @@ Mulanya sih sedikit bangga, ya walaupun saat ini sudah banyak yang menggunakan d
  - You say...
 
 ###Screenshot
- - ####FrontEnd Home
+ - #### FrontEnd Home
    ![frontend-home](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-front.JPG)
- - ####FrontEnd Statistik
+ - #### FrontEnd Statistik
    ![frontend-statistik](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-front-statistik.JPG)
- - ####FrontEnd Pemerintahan Desa
+ - #### FrontEnd Pemerintahan Desa
    ![frontend-pd](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-front-pd.JPG)
- - ####FrontEnd LPM
+ - #### FrontEnd LPM
    ![frontend-lpm](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-front-lpm.JPG)
 
- - ####BackEnd Login
+ - #### BackEnd Login
    ![backend-login](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-login.JPG)
- - ####BackEnd Home
+ - #### BackEnd Home
    ![backend-home](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-admin-home.JPG)
- - ####BackEnd Artikel
+ - #### BackEnd Artikel
    ![backend-artikel](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-admin-artikel.jpg)
- - ####BackEnd Kategori
+ - #### BackEnd Kategori
    ![backend-kategori](https://raw.github.com/novay/novay-gallery/master/My%20Screenshot/suatang/suatang-admin-kategori.JPG)
 
 ###Instalasi
