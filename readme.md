@@ -34,8 +34,8 @@ Mulanya sih sedikit bangga, ya walaupun saat ini sudah banyak yang menggunakan d
  - kunjungi `localhost:8000`
 
 ###Akun Backend
- - username : admin
- - password : admin
+ - username : novay
+ - password : suatangbaru123
 
 ###Credit
  - Laravel
