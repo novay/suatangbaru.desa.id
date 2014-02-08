@@ -1,0 +1,53 @@
+﻿#blue-header {z-index: 900;}
+
+
+#blue-header a:link,
+#blue-header a:visited,
+#blue-header a:active {color: #0066cc;}
+
+
+#blue-header .section-wrapper {width: 960px; margin: 0 auto; position: relative;}
+#blue-header .clr {clear: both;}
+
+
+#blue-header {background: #ffffff;}
+#blue-header #header-hat-nav {float: right; margin-top: 8px;}
+#blue-header #header-hat-nav ul li {float: left; margin-left: 16px;}
+#blue-header #header-hat-nav ul li.link {font-size: 12px; padding-left: 18px; background: url(hhttp://www.web.com/images/BlueHeader/hat-login-icon.png) no-repeat 0px 0px;}
+#blue-header #header-hat-nav ul li.phone {font-size: 13px; color: #666666; font-weight: bold; padding-left: 18px; background: url(http://www.web.com/images/BlueHeader/hat-phone-icon.png) no-repeat 0px 0px;} 
+
+#blue-header #header-logo {}
+#blue-header #header-logo img.logo {margin-left: -10px; vertical-align: text-bottom;}
+#blue-header #header-site-nav {position: relative; color: #ffffff; background: url(http://www.web.com/images/BlueHeader/navbg.png) repeat-x #1a63b1; height: 51px; float: right; margin-top: 8px;}
+#blue-header #header-site-nav ul#nav-main {height: 51px;}
+#blue-header #header-site-nav ul#nav-main li {float: left; border-left: 1px solid #4da3d5; border-right: 1px solid #35499d; height: 46px; margin: 2px 0; padding: 0; position: relative;} 
+#blue-header #header-site-nav ul#nav-main li img {margin: 10px 32px;}
+#blue-header #header-site-nav ul#nav-main li:hover {background: #1b62b0; border-top: 2px solid #d62b2c; margin-top: 0px; }
+#blue-header #header-site-nav ul#nav-main div.flyout {height: auto; position: absolute; top: 46px; left: 0px; background: #084292; padding: 0px; display: none; z-index: 10000;}
+#blue-header #header-site-nav ul#nav-main li.open div.flyout {display: block;}
+#blue-header #header-site-nav ul#nav-main div.flyout ul {margin: 0; padding: 10px 0; background: url(http://www.web.com/images/BlueHeader/navflyoutbg.png) repeat-x;}
+#blue-header #header-site-nav ul#nav-main div.flyout ul li {float: none; color: #0066cc; border: none; margin: 0; height: auto; padding: 5px 30px; white-space: nowrap;}
+#blue-header #header-site-nav ul#nav-main div.flyout ul li:hover {background: none;}
+#blue-header #header-site-nav ul#nav-main div.flyout ul li a:link,
+#blue-header #header-site-nav ul#nav-main div.flyout ul li a:visited,
+#blue-header #header-site-nav ul#nav-main div.flyout ul li a:active {color: #ffffff; text-decoration: none;}
+#blue-header #header-site-nav ul#nav-main div.flyout ul li a:hover {text-decoration: none;}
+#blue-header #header-site-nav .corners {height: 4px;width: 4px;position: absolute;background-image:url(http://www.web.com/images/BlueHeader/corner-4px-white.png);background-repeat: no-repeat;background-position: 0px 0px;font-size: 1px;}
+#blue-header #header-site-nav .corners.tl {background-position: 0px 0px; top: 0px; left: 0px;}
+#blue-header #header-site-nav .corners.tr {background-position: -4px 0px; top: 0px; right: 0px;}
+#blue-header #header-site-nav .corners.bl {background-position: 0px -4px; bottom: 0px; left: 0px;}
+#blue-header #header-site-nav .corners.br {background-position: -4px -4px; bottom: 0px; right: 0px;}
+
+
+#blue-header #header-hero {}
+#blue-header #product-hero {background: url(http://www.web.com/images/BlueHeader/product-hero-bg.png) no-repeat bottom; width: 958px; padding: 0 1px 16px 1px; overflow: hidden; margin-bottom: 30px;}
+#blue-header #product-hero .hero-box {padding-top: 40px; padding-left: 30px;}
+#blue-header #product-hero .hero-box p {font-size: 16px; color: #000000; line-height: 26px; margin: 12px 0;}
+#blue-header #product-hero .hero-box p.heading {font-weight: normal; font-size: 32px; line-height: 32px; margin: 0;}
+#blue-header #product-hero .hero-box p.heading1 {font-size: 36px; margin: 0; line-height: 40px; font-weight: bold; }
+#blue-header #product-hero .hero-box p.heading2 {font-size: 22px; margin-top: 0; line-height: 28px;}
+#blue-header #product-hero .hero-box p.button {margin-top: 18px;}
+#blue-header #product-hero .hero-box ul {margin: 18px 30px; list-style-type: disc; font-size: 16px;}
+#blue-header #product-hero .hero-box ul li {margin: 8px 0;}
+
+#blue-header #header-hero img {vertical-align: middle;}

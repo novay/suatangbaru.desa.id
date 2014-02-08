@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>STATISITIK JENJANG PENDIDIKAN</title>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript">
+$(function () {
+        $('#container').highcharts({
+            chart: {
+                type: 'bar'
+            },
+            subtitle: {
+                text: 'Statistik Jenjang Pendidikan 2012'
+            },
+            title: {
+                text: 'Desa Suatang Baru'
+            },
+            xAxis: {
+                categories: ['SD', 'SMP', 'SMA', 'D3', 'S1', 'S2'],
+                title: {
+                    text: null
+                }
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Populasi',
+                    align: 'middle'
+                },
+                labels: {
+                    overflow: 'Justified'
+                }
+            },
+            tooltip: {
+                valueSuffix: ' Orang'
+            },
+            plotOptions: {
+                bar: {
+                    dataLabels: {
+                        enabled: true
+                    }
+                }
+            },
+            
+            credits: {
+                enabled: false
+            },
+
+            series: [{
+                name: 'Wanita',
+                data: [525, 414, 86, 0, 25, 0]
+            },{
+                name: 'Pria',
+                data: [517, 381, 223, 2, 24, 2]
+            }]
+        });
+    });
+    
+
+		</script>
+	</head>
+	<body>
+<script src="js/highcharts.js"></script>
+<script src="js/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+	</body>
+</html>

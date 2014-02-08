@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>STATISITIK AGAMA</title>
+
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript">
+$(function () {
+        $('#container').highcharts({
+            chart: {
+                type: 'bar'
+            },
+            subtitle: {
+                text: 'Statistik Agama 2012'
+            },
+            title: {
+                text: 'Desa Suatang Baru'
+            },
+            xAxis: {
+                categories: ['Islam', 'Kristen', 'Katolik'],
+                title: {
+                    text: null
+                }
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Populasi',
+                    align: 'middle'
+                },
+                labels: {
+                    overflow: 'Justified'
+                }
+            },
+            tooltip: {
+                valueSuffix: ' Orang'
+            },
+            plotOptions: {
+                bar: {
+                    dataLabels: {
+                        enabled: true
+                    }
+                }
+            },
+            
+            credits: {
+                enabled: false
+            },
+
+            series: [{
+                name: 'Jumlah Jiwa',
+                data: [2260, 8, 15]
+            }]
+        });
+    });
+    
+
+		</script>
+	</head>
+	<body>
+<script src="js/highcharts.js"></script>
+<script src="js/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 400px; height: 400px; margin: 0 auto"></div>
+
+	</body>
+</html>

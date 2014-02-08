@@ -1,0 +1,159 @@
+﻿.col2 .col { float:left; width:438px;  }
+.col2 .col-1of2 { float:left; margin-right:8px; width:298px; }
+.col2 .col-2of2 { float:left; margin-right:8px; width:598px; }
+.col3 .col { float:left; margin-right:8px; width:298px; }
+.products { border:solid 1px #dbdbdb; border-radius:6px;   box-shadow: 1px 1px 3px 1px #e8e8e8; padding:6px ; font-size:14px;  }
+.products h2 { color:#116bb7; font-size:25px; padding-bottom:8px; padding-top:4px; }
+.products h3 { font-size:15px; padding-bottom:8px ; } 
+.products table { padding-bottom:12px; width:inherit; }
+.products tr { height:26px; vertical-align:middle; }
+.products tr.alt { background-color:#ededed; }
+.products tr th { font-weight:bold; padding-left:4px; }
+.products tr th , .products tr td { padding-top:2px; }
+    #blue-header #product-hero
+    {
+         background-image: none; margin-bottom:0px; padding-bottom: 0px;
+    }
+    #blue-header #product-hero .hero-box
+    {
+        padding-left: 0px; padding-top: 20px;
+    }
+#blue-body .features .col3 .col { float:left; margin-right:8px; padding:0px; width:215px; }
+#blue-body .prod-container { padding-left:290px; }
+#blue-body .features .products{ border:solid 1px #dbdbdb; border-radius:6px; font-size:14px; padding:0; text-align:center; }
+#blue-body .features .products h1 , #blue-body 	.features .products h1 { color:#116bb7; }
+#blue-body .features .products h1 { font-size:31px; font-weight:bold; padding-bottom:10px; padding-top:6px; }
+#blue-body .features .products h2 { font-size:28px; padding-bottom:8px; }
+#blue-body .features .products p { margin:0px; }
+#blue-body .features .products .best-value { background-color:#0a6cb5; border-top-left-radius:6px; border-top-right-radius:6px; color:#fff; height:19px; margin:0px; padding:3px 0px; font-size:14px; text-align:center;  }
+#blue-body .features .products .blank { background-color:#fff; }
+#blue-body .features .products .price { color:#000; font-size:18px; font-weight:bold; line-height:18px; margin-top:18px;	}
+#blue-body .features .products .product { line-height:18px; padding:10px; padding-top:20px;  }
+#blue-body .features .products .term	{ color:#000; font-size:15px; margin-bottom:18px; }
+#blue-body .details h2 { color:#000; font-size:22px; font-weight:bold; margin: 0; padding-bottom:14px;}
+#blue-body .details p { font-size:15px; }
+#blue-body .details .items { font-size:13px; padding:0px; padding-bottom:6px; }
+#blue-body .details .items ul.check li{ background-image:url('/images/pages/hosting/unix/list-red-check.png'); background-repeat:no-repeat; background-position:center center; }
+#blue-body .details .items ul { margin-left:256px; margin-top:-13px; }
+#blue-body .details .items li { float:left; line-height:14px; margin:0px; margin-left:10px; list-style:none; text-align:center; width:200px; }
+#blue-body .details .divider { clear:both; border-top:dashed 1px #c8c7c7; padding-bottom:8px; margin-top: 8px;  }
+#blue-body .details .splitter { clear:both; border-bottom: solid 2px #c8c7c7; padding-bottom:8px; margin-bottom:6px; margin-top: 8px;  }
+
+#blue-body #unix-offer { width:960px; }
+#blue-body #unix-offer #unix-offer-switch {color: #666666;}
+#blue-body #unix-offer #unix-offer-switch table#tabs { margin: 0; padding: 0; height: 38px; list-style: none; width:960px; }
+#blue-body #unix-offer #unix-offer-switch table#tabs tr td {     border:2px solid #dbdbdb;
+	border-top-left-radius: 6px 6px; border-top-right-radius: 6px 6px; color:#000; height: 14px; font-size: 16px; font-weight: bold; cursor: pointer; 
+	text-align:center; 
+}
+#blue-body #unix-offer #unix-offer-switch table#tabs tr td div
+ { background-color:#FBFBFB; 
+    /* background: #FBFBFB; Old browsers */
+    background: -moz-linear-gradient(top,  #fbfbfb 0%, #e9e9e9 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fbfbfb), color-stop(100%,#e9e9e9)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #fbfbfb 0%,#e9e9e9 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #fbfbfb 0%,#e9e9e9 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #fbfbfb 0%,#e9e9e9 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #fbfbfb 0%,#e9e9e9 100%); /* W3C */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb', endColorstr='#e9e9e9',GradientType=0 ); /* IE6-9 */
+padding: 12px 0px 12px 0px; 
+}
+#blue-body #unix-offer #unix-offer-switch table#tabs tr td.active { /*filter:none; background:none;*/ background-color:#fff; border-bottom:none; 
+	border-top:6px solid #116bb7; margin-top:-6px; }
+
+#blue-body #unix-offer #unix-offer-switch table#tabs tr td.active div { filter:none; background:none; background-color:#fff; border-bottom:none;
+ height:auto; }
+
+#blue-body #unix-offer #unix-offer-switch #offer-body { border-bottom:2px solid #dbdbdb; border-left:1px solid #dbdbdb; border-right:1px solid #dbdbdb; 
+    border-bottom-left-radius: 6px 6px; border-bottom-right-radius: 6px 6px; padding: 20px; background: url(/images/BluePages/hp-offer-bodybg.png) no-repeat top; 
+    font-size: 18px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body .thumb {float: left; width: 150px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body .info {float: left; width: 420px; padding-top: 10px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body h1 { color:#000; font-size:33px; font-weight:bold; margin: 0; padding-bottom:14px; padding-top:4px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body h2 { color:#000; font-size:22px; font-weight:bold; margin: 0; padding-bottom:14px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body h3 { color:#000; font-size:18px; line-height:20px; margin: 0; padding-bottom:14px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body h4 { color:#000; font-size:15px; font-weight:bold; margin: 0; padding-bottom:10px;}
+#blue-body #unix-offer #unix-offer-switch #offer-body p { padding-bottom:10px; margin: 0; font-size:15px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body p.heading { color:#333333; font-size: 18px; line-height: 20px; padding-bottom:20px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body p.subheader { color:#000; font-weight:bold; padding-bottom:2px; padding-top:12px;  }
+#blue-body #unix-offer #unix-offer-switch #offer-body .divider { clear:both; border-top:dashed 1px #c8c7c7; padding-bottom:8px; margin-top: 8px;  }
+#blue-body #unix-offer #unix-offer-switch #offer-body .faq { padding-bottom: 10px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body .offer-tab {display: none;}
+#blue-body #unix-offer #unix-offer-switch #offer-body .offer-tab.active {display: block; padding-top:12px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body ol {   margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding-top: 0px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 30px;  }
+#blue-body #unix-offer #unix-offer-switch #offer-body ol li { display:list-item; line-height:24px; list-style:decimal; padding-left:10px; }
+#blue-body #unix-offer #unix-offer-switch #offer-body ul li { list-style-image:url('/images/pages/hosting/unix/list-red-check.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .apps { padding-left:100px; width:338px; background-repeat:no-repeat; }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .advguestbook { background-image: url('/images/pages/hosting/unix/icon-advguestbook.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .b2evolution { background: url('/images/pages/hosting/unix/icon-b2evolution.png') no-repeat ;}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .bbclone { background: url('/images/pages/hosting/unix/icon-bbclone.png') no-repeat ;}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .coppermine { background-image: url('/images/pages/hosting/unix/icon-coppermine.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .cslh { background-image: url('/images/pages/hosting/unix/icon-cslh.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .drupal { background-image: url('/images/pages/hosting/unix/icon-drupal.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .helpcenter { background-image: url('/images/pages/hosting/unix/icon-helpcenter.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .gallery { background-image: url('/images/pages/hosting/unix/icon-gallery.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .geeklog { background-image: url('/images/pages/hosting/unix/icon-geeklog.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .joomla { background-image: url('/images/pages/hosting/unix/icon-joomla.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .magento { background-image: url('/images/pages/hosting/unix/icon-magento.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .mambo { background-image: url('/images/pages/hosting/unix/icon-mambo.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .mantis { background-image: url('/images/pages/hosting/unix/icon-mantis.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .oscommerce { background-image: url('/images/pages/hosting/unix/icon-oscommerce.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .osticket { background-image: url('/images/pages/hosting/unix/icon-osticket.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .owl { background-image: url('/images/pages/hosting/unix/icon-owl.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .phpbb { background-image: url('/images/pages/hosting/unix/icon-phpbb.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .phprojekt { background-image: url('/images/pages/hosting/unix/icon-phprojekt.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .phpwiki { background-image: url('/images/pages/hosting/unix/icon-phpwiki.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .simplemachines { background-image: url('/images/pages/hosting/unix/icon-simplemachines.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .tikiwiki { background-image: url('/images/pages/hosting/unix/icon-tikiwiki.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .typo3 { background-image: url('/images/pages/hosting/unix/icon-typo3.png'); }
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .websiteaddons { background: url('/images/pages/hosting/unix/icon-websiteaddons.png') no-repeat ;}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .wordpress { background: url('/images/pages/hosting/unix/icon-wordpress.png') no-repeat ;}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .xoops { background-image: url('/images/pages/hosting/unix/icon-xoops.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-apps .xrms { background-image: url('/images/pages/hosting/unix/icon-xrms.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body #hp-offer-languages .apps { padding-left:100px; background-repeat:no-repeat; }
+#blue-body #unix-offer #unix-offer-switch #offer-body .cgi { background-image: url('/images/pages/hosting/unix/icon-cgi.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .cronjobs { background-image: url('/images/pages/hosting/unix/icon-cronjobs.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .java { background-image: url('/images/pages/hosting/unix/icon-java.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .mysql { background-image: url('/images/pages/hosting/unix/icon-mysql.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .perl { background-image: url('/images/pages/hosting/unix/icon-perl.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .php5 { background-image: url('/images/pages/hosting/unix/icon-php5.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .phpmyadmin { background-image: url('/images/pages/hosting/unix/icon-phpmyadmin.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .python { background-image: url('/images/pages/hosting/unix/icon-python.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .ruby { background-image: url('/images/pages/hosting/unix/icon-ruby.png');}
+#blue-body #unix-offer #unix-offer-switch #offer-body .zend { background-image: url('/images/pages/hosting/unix/icon-zend.png');}
+.compare-link
+{
+	color:#000; font-size:15px;
+}
+#uptime-link    { color:#000;    }
+#uptime-link a { cursor:pointer; text-decoration:underline;   }
+#uptime-reliability { display:none; /*background-color:#f5faff; border:solid 1px #7fabd7; font-size:12px; padding:10px; */ 
+    margin-left:100px; margin-top:-160px; z-index:1; padding-top:6px; padding-right:8px;   position:absolute; width:500px;}
+#uptime-reliability h2 { color:#116bb7; font-size:15px; font-weight:bold;  }
+#uptime-reliability.show    {        display: block;    }
+#uptime-reliability div.banner { padding-bottom:10px; }
+#uptime-reliability img.close { cursor:pointer; float:right; }
+.content {
+    position:relative;
+    z-index:1;
+}
+.triangle-right {
+	background-color:#f5faff;
+	background:#f5faff;
+    background-image: #f5faff;
+	/* css3 */
+    /*color:#7fabd7;*/
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+    border:solid 1px #7fabd7;
+	border-radius:10px;
+    }
+
+
